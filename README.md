@@ -2,8 +2,16 @@
 
 Case study?
 
-#Door #Discipline 
+#Door 
+
+#Discipline 
 
 #Architecture
+
+#MongoDB
+
+#SDK 
+
+#API
 
 
