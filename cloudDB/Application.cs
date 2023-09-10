@@ -75,7 +75,7 @@ namespace cloudDB
         }
 
         /// <summary>
-        /// Function creates Jacobian Dev tab and cloudDB ribbon panel
+        /// Function creates Lalo ibg tab and cloudDB ribbon panel
         /// </summary>
         /// <param name="a"></param>
         /// <returns name="ribbonPanel"> </returns>
